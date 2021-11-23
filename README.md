@@ -1,0 +1,2 @@
+# loan_default_data
+The dataset we propose to use is Berka dataset for financial institution. The problem looks into how many loans have turned bad (where customer couldn’t repay) from already available data and predicts whether a loan will turn bad or not for new customers. If it will turn bad, ABC bank may choose not to lend him/her. This is a binary classification problem that classifies a loan as good (quality asset) or bad(default).
